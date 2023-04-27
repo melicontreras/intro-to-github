@@ -207,7 +207,7 @@ To create a pull request automatically, click **Compare & pull request**, and th
   if users accidentally closed without merging.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Merge your pull request</h2></summary>
 
 _Nicely done! :sunglasses:_
